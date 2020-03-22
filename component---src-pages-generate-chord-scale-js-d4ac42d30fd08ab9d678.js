@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{LKOL:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=(t("Wbzz"),t("Bl7J")),c=t("vrFN");n.default=function(e){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"genereate chord scale"}),l.a.createElement("div",null,"코드 스케일을 생성"))}}}]);
+//# sourceMappingURL=component---src-pages-generate-chord-scale-js-d4ac42d30fd08ab9d678.js.map
